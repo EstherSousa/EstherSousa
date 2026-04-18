@@ -1,4 +1,3 @@
----
 
 ## 🚀 Sobre Mim
 
@@ -9,7 +8,6 @@ Olá! Sou Esther Sousa, uma **Desenvolvedora de Software** em fomação, tenho e
 * 🎯 **Interesses:** Ciência de Dados (Data Science), Criação de Jogos (GameDev e Design) e Matematica (Probabilidade e Estatistica).
 
 ---
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -43,6 +41,7 @@ Olá! Sou Esther Sousa, uma **Desenvolvedora de Software** em fomação, tenho e
 <img src="https://streak-stats.demolab.com?user=EstherSousa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
 
 ---
+
 ## 📧 Quer Falar Comigo?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-sousa-31972a20b/)
