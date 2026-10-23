@@ -35,15 +35,6 @@ Olá! Sou Esther Sousa, uma **Desenvolvedora de Software** em fomação, tenho e
 
 ---
 
-## 💾 No meu GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherSousa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<img src="https://streak-stats.demolab.com?user=EstherSousa&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888"/>
-
----
 
 ## 📧 Quer Falar Comigo?
 
